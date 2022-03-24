@@ -1,5 +1,5 @@
-let a=String(prompt('enter word'))
-let r = a.split('')
+let a2=String(prompt('enter word'))
+let r = a2.split('')
 function method2() {
            for (let i=0; i<r.length;i++){
                let c=0;
